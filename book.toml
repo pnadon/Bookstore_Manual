@@ -1,0 +1,7 @@
+[book]
+title = "Bookstore App Manual"
+authors = ["Philippe Nadon"]
+description = "The user manual for the Bookstore App"
+language = "en"
+multilingual = false
+src = "src"
